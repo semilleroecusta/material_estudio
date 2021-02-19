@@ -1,6 +1,6 @@
 ## Algoritmos 
 
-La siguiente es una lista de ejercicios que se actualizará eventualmente. Si van a realizar alguno de los ejercicios aquí planteados, haga un push desde un branch diferente al master (o main) con su nombre con un documento en formato .py y realice el pull-request. Espere a que sea revisado.
+La siguiente es una lista de ejercicios que se actualizará eventualmente. Si van a realizar alguno de los ejercicios aquí planteados, haga un push desde un branch diferente al master (o main) con su nombre con un documento en formato .py a la carpeta 'soluciones' y realice el pull-request. Espere a que sea revisado.
 
 ### Básicos
 
