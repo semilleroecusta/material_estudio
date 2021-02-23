@@ -8,7 +8,7 @@ try:
       print("Yes")
     else:
       print("No")
-  if weight==2:
+  elif weight==2:
     print("No")
   
   else:
