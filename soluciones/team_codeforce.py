@@ -1,3 +1,4 @@
+import numpy as np
 #Team_codeforce #Bautista 
 contador=0
 try:
