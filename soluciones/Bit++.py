@@ -1,6 +1,6 @@
 #codigo BIT++ by:David Bautista 
 n=int(input(""))  
-x=0 .   
+x=0 
 for i in range(n):      
   op=input("")          
   if op[1]=="+":       
